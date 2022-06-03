@@ -1,0 +1,22 @@
+body{
+    /*margin-top: 50px;*/
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size: 12px;
+}
+.text-center
+{
+    text-align: center;
+}
+.table_tr > td {
+ 
+        background-color:#eeeeee;
+        padding:0px;
+        text-align: center;
+}
+table, td, th,tr {
+    border: 1.1px solid;
+  }
+.tr_data > td
+{
+ height: 30px;
+}
